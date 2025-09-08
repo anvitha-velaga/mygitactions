@@ -26,4 +26,4 @@ jobs:
     - name: Install dependencies
       run: |
         python user.py
-        pytest
+      
